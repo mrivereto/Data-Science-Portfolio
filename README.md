@@ -5,3 +5,6 @@
 </p>
 
 # Marcos Rivereto
+
+# Projetos
+- [Análise do dados Airbnb - Rio de Janeiro](https://github.com/mrivereto/DS-Analise-Airbnb-RJ)
