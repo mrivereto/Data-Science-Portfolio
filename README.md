@@ -8,3 +8,4 @@
 
 # Projetos
 - [Análise do dados Airbnb - Rio de Janeiro](https://github.com/mrivereto/DS-Analise-Airbnb-RJ)
+- [Análise do dados Airbnb - New Zealand](https://github.com/mrivereto/DS-Analise-Airbnb-NewZealand)
